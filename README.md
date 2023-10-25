@@ -1,6 +1,6 @@
-# Ethereum Request for Comments (ERCs)
+# Ethereum Improvement Proposals (EIPs)
 
-*Please note that ERCs were recently separated from the [EIPs](https://github.com/ethereum/eips) repo.*
+> **_ATTENTION_**: The EIPs repository has recently [undergone](https://github.com/ethereum/EIPs/pull/7206) a separation of ERCs and EIPs. ERCs are now accessible at [https://github.com/ethereum/ercs](https://github.com/ethereum/ercs). All new ERCs and updates to existing ones must be directed at this new repository. The editors apologize for this inconvenience.
 
 The goal of ERCs is to standardize and provide high-quality documentation for the Ethereum application layer. This repository tracks past and ongoing improvements application standards in the form of ERCs. [EIP-1](https://eips.ethereum.org/EIPS/eip-1) governs how EIPs and ERCs are published.
 
